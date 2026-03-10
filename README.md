@@ -19,6 +19,11 @@ The bending of the flex sensor changes resistance, which is read by Arduino and 
 
 ![Circuit Diagram](tinkercad_circuit.png)
 
+## Project Demo
+
+Tinkercad Simulation:
+https://www.tinkercad.com/things/3Su9y99MC0V-robotic-hand
+
 
 ## 3D Model
 
