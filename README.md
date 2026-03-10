@@ -36,6 +36,7 @@ Tinkercad Simulation:
 https://www.tinkercad.com/things/3Su9y99MC0V-robotic-hand
 
 ![Project Preview](roboticArm_clear_circuit.png)
+
 ---
 
 ## 3D Model
